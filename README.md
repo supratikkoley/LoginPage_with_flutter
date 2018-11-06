@@ -3,6 +3,6 @@
 A new Flutter project.
 
 ## Getting Started
-![ScreenShot|20%](loginpage.png)
+<img src="loginpage.png" height="500em" />
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
